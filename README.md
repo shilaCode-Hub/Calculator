@@ -1,6 +1,6 @@
-✨Calculator
+✨ Calculator
 
-A sleek, functional calculator application built entirely using front-end technologies: HTML, CSS, and JavaScript.
+This is a simple and functional Calculator created using HTML, CSS, and JavaScript. It performs basic arithmetic operations and displays results in real-time.
 
 ⚒️Technologies Used :
 
@@ -13,10 +13,24 @@ CSS3: Utilized for styling, implementing the modern dark theme, and creating the
 JavaScript (ES6+): Handles all the core logic, including input parsing, order of operations, and display management.
 
 🌟 Features
-Standard Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
+Standard Arithmetic Operations: Perform addition(+), subtraction(-), multiplication(*), and division(/).
 
 Responsive Design: Works seamlessly on both desktop and mobile devices (if applicable).
 
-Clear Button (C): Clears the entire input and calculation history.
+Clear Button: Clears the entire input and calculation history.
 
 Modern UI/UX: Features a dark theme and rounded buttons for an intuitive user experience.
+
+▶️ How to Use
+
+Click the buttons to enter numbers and operators
+
+Press = to calculate the result
+
+Press Clear to remove everything
+
+📸Screenshot
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/31a3d757-6a06-49e3-9b92-94047205efd2" />
+
+
+
