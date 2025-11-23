@@ -30,7 +30,7 @@ Press = to calculate the result
 Press Clear to remove everything
 
 📸Screenshot
-<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/31a3d757-6a06-49e3-9b92-94047205efd2" />
+<img width="1920" height="859" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/7c5fc487-c48d-4cb7-ac23-b1b7e634ad40" />
 
 
 
