@@ -3,7 +3,9 @@
 A sleek, functional calculator application built entirely using front-end technologies: HTML, CSS, and JavaScript.
 
 ⚒️Technologies Used :
-This project is built using fundamental web development tools:
+
+This project is built using fundamental web development tools:--
+
 HTML5: For the basic structure and layout of the calculator interface.
 
 CSS3: Utilized for styling, implementing the modern dark theme, and creating the responsive grid layout.
