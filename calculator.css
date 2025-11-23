@@ -1,0 +1,33 @@
+body{
+   background-color: #1c0101;
+   font-size: 30px;
+   color:white;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+    
+}
+button{
+    background-color: rgb(195, 187, 187);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+    
+}
+.operator{
+    background-color: #e29c05;
+    
+}
+.clear{
+    background-color: rgb(64, 165, 10);
+    
+}
+
+
+
+
